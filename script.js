@@ -54,5 +54,4 @@ const toArabic = (number) => {
     }
     return result;
 };
-console.log(toArabic('CMXI'))
-console.log(toArabic('MXXIV'))
+console.log(toArabic('MXI'))
